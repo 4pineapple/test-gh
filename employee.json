@@ -1,0 +1,100 @@
+{
+    "employees": [
+      {
+        "id": 1001,
+        "personal_info": {
+          "name": "John Doe",
+          "age": 35,
+          "email": "john.doe@example.com"
+        },
+        "work_info": {
+          "department": "Engineering",
+          "position": "Senior Developer",
+          "years_of_experience": 10
+        },
+        "skills": [
+          "Python",
+          "JavaScript",
+          "Docker",
+          "AWS"
+        ]
+      },
+      {
+        "id": 1002,
+        "personal_info": {
+          "name": "Jane Smith",
+          "age": 28,
+          "email": "jane.smith@example.com"
+        },
+        "work_info": {
+          "department": "Marketing",
+          "position": "Content Strategist",
+          "years_of_experience": 5
+        },
+        "skills": [
+          "Content Writing",
+          "SEO",
+          "Social Media Management",
+          "Adobe Creative Suite"
+        ]
+      },
+      {
+        "id": 1003,
+        "personal_info": {
+          "name": "Mike Johnson",
+          "age": 42,
+          "email": "mike.johnson@example.com"
+        },
+        "work_info": {
+          "department": "Sales",
+          "position": "Account Executive",
+          "years_of_experience": 15
+        },
+        "skills": [
+          "Negotiation",
+          "CRM Software",
+          "Public Speaking",
+          "Business Development"
+        ]
+      },
+      {
+        "id": 1004,
+        "personal_info": {
+          "name": "Emily Brown",
+          "age": 31,
+          "email": "emily.brown@example.com"
+        },
+        "work_info": {
+          "department": "Human Resources",
+          "position": "HR Manager",
+          "years_of_experience": 8
+        },
+        "skills": [
+          "Recruitment",
+          "Employee Relations",
+          "Performance Management",
+          "Labor Laws"
+        ]
+      },
+      {
+        "id": 1005,
+        "personal_info": {
+          "name": "David Lee",
+          "age": 39,
+          "email": "david.lee@example.com"
+        },
+        "work_info": {
+          "department": "Finance",
+          "position": "Financial Analyst",
+          "years_of_experience": 12
+        },
+        "skills": [
+          "Financial Modeling",
+          "Data Analysis",
+          "Excel",
+          "SQL"
+        ]
+      }
+    ]
+  }
+  
